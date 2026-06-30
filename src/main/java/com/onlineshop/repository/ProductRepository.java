@@ -15,5 +15,5 @@ public interface ProductRepository extends JpaRepository<Product, Long> {
 
     @Lock(LockModeType.OPTIMISTIC)
     @Query("SELECT p FROM Product p WHERE p.id = :id")
-    Optional<Product> FindByIdForCheckout(@Param("id") Long id);
+    Optional<Product> findByIdForCheckout(@Param("id") Long id);
 }
