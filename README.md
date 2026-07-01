@@ -559,6 +559,3 @@ src/main/java/com/onlineshop/
 
 ---
 
-## 📄 License
-
-This project is built for portfolio purposes.
