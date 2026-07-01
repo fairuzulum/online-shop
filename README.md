@@ -108,7 +108,7 @@ This is the easiest way to run the project without installing Java or PostgreSQL
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/online-shop.git
+git clone https://github.com/fairuzulum/online-shop.git
 cd online-shop
 ```
 
